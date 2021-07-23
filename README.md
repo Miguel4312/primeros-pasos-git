@@ -5,3 +5,5 @@ Primera modificación a la versión inicial del archivo README
 Agrego esta linea de texto desde el editor en línea para hacer un Pull desde GitBash
 
 Este texto fue agregado para hacer uso de GitHub Desktop
+
+ESte texto fue agregado utilizando Visual Studio Code
