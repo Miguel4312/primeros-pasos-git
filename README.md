@@ -6,4 +6,4 @@ Agrego esta linea de texto desde el editor en línea para hacer un Pull desde Gi
 
 Este texto fue agregado para hacer uso de GitHub Desktop
 
-ESte texto fue agregado utilizando Visual Studio Code
+Este texto fue agregado utilizando Visual Studio Code :)
